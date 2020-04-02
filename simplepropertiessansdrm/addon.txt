@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Simple Properties"
+	"version"			"2.0.4"
+	"up_date"			"20/01/2018"
+	"author_name"			"William"
+	"author_email"			""
+	"author_url"			"www.busan1.com"
+	"info"				"Extra"
+	"override"			"0"
+}
